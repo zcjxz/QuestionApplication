@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QuestionApplication</string>
+    <string name="mainActivityTitle">什么什么什么题库</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string-array name="QuestionInfo">
+        <item>Question</item>//0
+        <item>OptionA</item>//1
+        <item>OptionB</item>//2
+        <item>OptionC</item>//3
+        <item>OptionD</item>//4
+        <item>Answer</item>//5
+        <item>Explains</item>//6
+    </string-array>
+
+
+    <string name="action_settings">Settings</string>
+</resources>
